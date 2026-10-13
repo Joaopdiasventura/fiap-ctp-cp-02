@@ -10,7 +10,6 @@ Este projeto foi desenvolvido pelos alunos:
 
 - Vini dos Santos Pereira - RM: 576935
 - João Paulo Dias Ventura - RM: 575184
-- Gustavo Henrique Lopes Rezende - RM: 574749
 
 ## Funcionalidades
 
